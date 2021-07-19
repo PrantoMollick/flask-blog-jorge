@@ -1,6 +1,6 @@
 import os
 class Settings(object):
-    SECRET_KEY = 'MYSECRET'
+    SECRET_KEY = 'MYSECRET000000000'
     DEBUG = True
     DB_USERNAME = 'root'
     DB_PASSWORD = 'pranto'
